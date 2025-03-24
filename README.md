@@ -148,20 +148,6 @@ La elección del enfoque dependerá de la complejidad de la configuración desea
 
 <br>
 
-Esta sección proporciona una base sólida para comprender cómo Istio y Argo Rollouts se combinan para implementar estrategias de enrutamiento avanzadas. En las siguientes secciones, profundizaremos en la configuración específica y los pasos para implementar este flujo GitOps.
-
-
-**Diagrama de funcionamiento de distintas estrategias**
-
-<br>
-
-<p align="center">
-  <img src="https://tetrate.io/wp-content/uploads/2023/08/f7.png" alt="diagrama-de-funcionamiento-de-distintas-estrategias" width="600">
-</p>
-
-<br>
-
-
 #### **Arquitectura Propuesta**
 
 Esta sección presenta la arquitectura propuesta para implementar un flujo GitOps avanzado utilizando Argo Rollouts e Istio Gateway. Se incluyen diagramas de contexto y de flujo detallado para ilustrar los componentes y su interacción conceptual.
